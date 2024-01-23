@@ -518,6 +518,31 @@ ol,p,ul{margin-top:0;margin-bottom:1rem}ol,p,ul{margin-bottom:1rem}img,svg{verti
   font-weight: 500;
   background-color: #fff;
 }
+#es-rc #es-rc-content .es-cross .td-smaller {
+  vertical-align: middle;
+  text-align: center;
+  border: none;
+  min-width: 70px;
+  color: #000;
+  font-weight: 500;
+}
+#es-rc #es-rc-content .es-cross .td-gap {
+  vertical-align: middle;
+  text-align: center;
+  border: none;
+  width: 90px;
+  min-width: 70px;
+  color: #000;
+  font-weight: 500;
+}
+#es-rc #es-rc-content .es-cross .th-gap {
+  vertical-align: middle;
+  border: none;
+  width: 90px;
+  min-width: 70px;
+  color: #005649;
+  font-weight: 500;
+}
 #es-rc #es-rc-content .es-cross .es-articles__button {
   padding: 7px 21px;
 }
